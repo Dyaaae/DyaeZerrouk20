@@ -1,0 +1,49 @@
+h1{
+    border: solid pink;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-size: x-large;
+    background-color: pink;
+}
+.p1{
+    background-color: powderblue;
+}
+h4{color: rgb(228, 116, 135);
+    text-decoration-line: underline;
+}
+h5{color: rgb(214, 129, 143);
+}
+.p5{
+    border: solid pink;
+    background-color: rgb(245, 178, 189);
+}
+h3{
+    border: solid pink;
+    text-align: center;
+}
+.p6{border: solid pink;
+    background-color: rgb(245, 178, 189);
+
+
+}
+h2{color: rgb(37, 188, 248);
+    border: dotted pink;
+background-color: pink;
+text-align: center;}
+.p7{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;}
+td{ text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.p8{ text-decoration: rgb(228, 116, 135);}
+.image2{
+    float: right;
+    margin-right: 40px;
+}
+.p9{
+    float: right;
+}
+.bb{
+    color: rgb(231, 81, 106);
+    border:dotted;
+}
